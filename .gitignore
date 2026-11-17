@@ -9,4 +9,4 @@ __pycache__/
 # Videos pesados y modelos descargables
 *.mp4
 *.avi
-*.pt
+*.pt*.pkl
